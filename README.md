@@ -6,6 +6,3 @@
 Установка:
 - распаковать в steamapps\common\Team Fortress 2\tf\custom\
 - пример: D:\SteamClient\steamapps\common\Team Fortress 2\tf\custom\fawos\resource\ui\mvmscoreboard.res
-
-Буду признателен, если в ответ на чье-нибудь "Что это за еб..., эммм... полезняшка такая?",
-пошлёте его на мой сайт, типа "А это сделал чувак с сайта lancersreactor.ru"
