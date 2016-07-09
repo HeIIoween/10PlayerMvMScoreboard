@@ -6,4 +6,7 @@
 
 Установка:
 - распаковать в steamapps\common\Team Fortress 2\tf\custom\
-- пример: D:\SteamClient\steamapps\common\Team Fortress 2\tf\custom\fawos\resource\ui\mvmscoreboard.res
+
+Пример:
+- D:\SteamClient\steamapps\common\Team Fortress 2\tf\custom\fawos\resource\ui\mvmscoreboard.res
+- D:\SteamClient\steamapps\common\Team Fortress 2\tf\custom\fawos\info.vdf
